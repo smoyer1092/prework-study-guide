@@ -1,6 +1,7 @@
 # Prework Study Guide Webpage
 
-## This webpage has notes to reference from what was learned during the prework of the bootcamp. This will be useful to use during the bootcamp work to reference main points. This helps solve the problem of trying to memerize everything about each apsect of coding that we learned. It will help students to keep the information organized on how to use each topic. This will be much easier to use then trying to dig back through the prework material to find information.
+## Description
+This webpage has notes to reference from what was learned during the prework of the bootcamp. This will be useful to use during the bootcamp work to reference main points. This helps solve the problem of trying to memerize everything about each apsect of coding that we learned. It will help students to keep the information organized on how to use each topic. This will be much easier to use then trying to dig back through the prework material to find information.
 
 ## Installation
 
